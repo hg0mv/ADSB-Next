@@ -74,7 +74,7 @@ rest still works.
 
 ### Statistics (toolbar: Statistics, Esc: back)
 
-![Statistics](docs/screenshot-stats.png)
+![Statistics](screenshot-stats.png)
 
 - **Since start:** aircraft seen, maximum distance (with callsign and
   bearing), average message rate, aircraft seen with MLAT.

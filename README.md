@@ -4,7 +4,7 @@ English · **[Magyar](README.hu.md)**
 
 HG0MV · 0.4.0
 
-![Main window](docs/screenshot-main.png)
+![Main window](screenshot-main.png)
 
 A 1090 MHz Mode S / ADS-B decoder for RTL-SDR, written from scratch in C.
 It works as a feeder: PiAware (FlightAware), fr24feed and other clients
